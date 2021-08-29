@@ -1,3 +1,6 @@
-# Demo
+#MAIN REPOSITORY
 
-some description of this repository!
+ALL PROJECT FOLDERS STORED HERE.
+I SHOULD PROBABLY HAVE DIFFERENT REPOSITORIES FOR DIFFERENT PROJECTS, BUT i DON'T KNOW ANY BETTER FOR NOW.
+
+The first folder created, JavaLearn, contains exercises for learning JS.
